@@ -1,0 +1,10 @@
+file_format: "1"
+id: zf1r 
+name: ZF1R 
+type: board
+arch: arm
+features:
+  - keys
+outputs:
+  - usb
+  - ble
